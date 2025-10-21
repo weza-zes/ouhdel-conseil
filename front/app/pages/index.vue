@@ -55,7 +55,7 @@
         >
             <NuxtLink
                 :class="defaultShowcaseElementClasses.container"
-                to="/territorial"
+                to="/international"
             >
                 <img
                     class="object-cover w-32 h-32 rounded-full shadow-lg"
@@ -89,7 +89,7 @@
             </NuxtLink>
             <NuxtLink
                 :class="defaultShowcaseElementClasses.container"
-                to="/international"
+                to="/technical-partners"
             >
                 <img
                     class="object-cover w-32 h-32 rounded-full shadow-lg"
