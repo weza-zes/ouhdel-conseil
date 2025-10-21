@@ -1,0 +1,294 @@
+{
+    "nav": {
+        "welcome": "Accueil",
+        "about": "À propos",
+        "international": "Acteurs Internationaux",
+        "enterprise": "Entreprises",
+        "technical-partners": "Partenaires Techniques",
+        "our-project": "Notre projet",
+        "contact": "Contact"
+    },
+    "home": {
+        "catchphrase": "Structurer des projets publics et privés à fort impact, du local à l’international.",
+        "start": "Commencer",
+        "partners": "Partenaires de Confiance",
+        "why_us": "Pourquoi nous ?",
+        "why_us_text": {
+            "1": "OUHDEL Conseil n’est pas un cabinet d’affaires de plus.",
+            "2": "Nous sommes les stratèges discrets et les catalyseurs engagés des projets territoriaux et institutionnels les plus complexes.",
+            "3": "Nous croyons qu’un développement efficace commence par une vision claire, un ancrage cohérent, et une confiance solide entre les acteurs.",
+            "4": "Opérateurs d'Etat et collectivités publiques, entreprises, bailleurs : nous vous accompagnons dans la structuration de projets ambitieux et durables, en France comme à l’international avec une exigence constante de rigueur, de lisibilité et de qualité haut de gamme.",
+            "5": "Chez OUHDEL Conseil, nous construisons, à vos côtés, des stratégies durables et adaptées à vos besoins."
+        },
+        "work_together": "Travaillons ensemble !",
+        "work_together_text": "Que vous soyez un opérateur d'Etat, une entreprise ou un partenaire technique, nous mettons à votre disposition des services clairs, un accompagnement stratégique et une vraie capacité d’action.",
+        "work_together_click_below": "Cliquez ci-dessous pour découvrir ce que nous pouvons construire ensemble.",
+        "showcase_international": {
+            "title": "Acteurs territoriaux",
+            "question": "Vous êtes un opérateur d'Etat, une direction nationale, une collectivité publique ou une agence ?",
+            "answer": "OUHDEL Conseil vous accompagne de l'idée à l'action."
+        },
+        "showcase_enterprise": {
+            "title": "Entreprises",
+            "question": "Vous êtes un opérateur privé et vous souhaitez vous implanter/collaborer avec des acteurs publics ?",
+            "answer": "Nous construisons votre stratégie avec méthode, clarté et efficacité."
+        },
+        "showcase_partners": {
+            "title": "Partenariats internationaux",
+            "question": "Development Boards et agences spécialisées, vos projets sont techniques et innovants...",
+            "answer": "Mais les marchés internationaux exigent bien plus qu'une expertise."
+        }
+    },
+    "about": {
+        "our_manifest": "Notre Manifeste",
+        "manifest_description": {
+            "1": "{0} n'est pas un cabinet de conseil.",
+            "1_param": "OUHDEL Conseil",
+            "2": "Nous sommes des stratèges d’impact, des médiateurs entre acteurs internationaux et des partenaires de confiance pour les organisations qui portent des projets décisifs.",
+            "3": "Nous sommes convaincus que les projets publics et privés de demain ne seront ni purement techniques, ni uniquement politiques. Ils seront hybrides, partenariaux, stratégiques et ancrés.",
+            "4": "OUHDEL Conseil est né pour accompagner ces projets. Ceux qui nécessitent de faire dialoguer des mondes, de composer avec les territoires, de négocier avec les institutions, de construire des solutions durables avec méthode et finesse.",
+            "5": "Nous ne croyons ni aux recettes toutes faites, ni aux grandes déclarations. Nous croyons au travail sérieux, à la lucidité territoriale, à la construction patiente d’alliances et à la capacité d’agir concrètement."
+        },
+        "download_our_brochure": "Téléchargez notre plaquette",
+        "who_are_we": "Qui sommes nous ?",
+        "who_are_we_description": {
+            "1": "OUHDEL Conseil est un cabinet international de nouvelle génération, fondé par deux jeunes experts issus de formations d'excellence, réunis par une conviction commune : «Les projets à fort impact ont besoin d’une boussole stratégique, pas seulement d’un exécutant».",
+            "2": "À l’origine purement tourné vers le conseil privé, OUHDEL est aujourd’hui un cabinet «glocal», au croisement de l’ingénierie publique, du développement international, de la diplomatie économique et de la stratégie institutionnelle.",
+            "3": "Nous accompagnons les opérateurs d'Etat, les entreprises et les institutions publiques ou internationales dans la structuration, la sécurisation et la valorisation de projets complexes, avec rigueur, finesse politique et engagement de résultat.",
+            "4": "Ni opérateur technique, ni simple consultant : nous sommes des catalyseurs, des traducteurs d’ambitions, et avant tout, votre partenaire de confiance."
+        },
+        "our_values": "Nos Valeurs",
+        "our_values_description": {
+            "description": "Chez OUHDEL Conseil, nous croyons que chaque territoire mérite une stratégie sur mesure, à la hauteur de ses ambitions et de ses contraintes. Notre engagement repose sur cinq piliers qui guident chacunes de nos missions :",
+            "values": {
+                "1": {
+                    "title": "Clarté :",
+                    "description": "Nous posons un cadre simple à des projets complexes. Notre méthode est lisible, notre discours est structurant. Nos travaux constituent des outils concrets et adaptés à votre structure à l'international."
+                },
+                "2": {
+                    "title": "Engagement :",
+                    "description": "Nous travaillons en partenaire, pas en prestataire. Nous portons les projets de nos clients comme s’ils étaient les nôtres, avec loyauté et exigence."
+                },
+                "3": {
+                    "title": "Confiance :",
+                    "description": "C’est notre moteur. Dans la relation avec nos clients, nos partenaires techniques et nos interlocuteurs publics, tout commence par la fiabilité et l’écoute."
+                },
+                "4": {
+                    "title": "Connexion :",
+                    "description": "Nous faisons dialoguer les échelles, les secteurs, les cultures. Du rural au global, du public au privé, nous tissons des coalitions d’acteurs au service de l’impact."
+                },
+                "5": {
+                    "title": "Rigueur stratégique :",
+                    "description": "Chaque projet mérite une vision, une architecture solide, et une cohérence d’ensemble. C’est ce qui fait notre marque."
+                }
+            }
+        },
+        "want_to_know_more": "Vous voulez en savoir plus ?",
+        "contact_us": "Contactez nous, et recevez une réponse dans les plus brefs délais"
+    },
+    "international": {
+        "our_mission": "Notre Mission",
+        "our_mission_description": {
+            "1": "Vous êtes un gouvernement, une agence de développement, une institution internationale ou une grande entreprise à la recherche d’un appui stratégique clair, complet et réactif ?",
+            "2": "OUHDEL Conseil vous accompagne dans la conception, la structuration et la valorisation de projets à fort impact, en mobilisant les bons partenaires, les bons leviers institutionnels et les bons financements."
+        },
+        "missions": {
+            "1": {
+                "title": "Définir la bonne stratégie mondiale",
+                "items": {
+                    "1": "Diagnostic stratégique de développement territorial et institutionnel au niveau international.",
+                    "2": "Identification de projets à forts impacts (infrastructures publiques, zones économiques spéciales, mobilité, énergie, agriculture.",
+                    "3": "Définition du partenariat public-privé (PPP).",
+                    "4": "Appui à la rédaction de la stratégie institutionnelle et politique.",
+                    "5": "Priorisation des actions à court et moyen terme."
+                }
+            },
+            "2": {
+                "title": "Structurer le projet global",
+                "items": {
+                    "1": "Préparation du déroulement prévisionnel (technique, juridique, institutionnel)",
+                    "2": "Mobilisation et coordination de bureaux d’études ou AMO partenaires internationaux.",
+                    "3": "Identification des parties prenantes publiques et privées internationales."
+                }
+            },
+            "3": {
+                "title": "Financer et positionner le projet mondial",
+                "items": {
+                    "1": "Montage complet de dossiers de financement (Banque mondiale, Banque africaine de développement, Global Gateway, fonds climat, appels à projets multilatéraux).",
+                    "2": "Stratégie de certification et de labellisation adaptée (soutenabilité, conformité ESG, labels internationaux de gouvernance et de performance).",
+                    "3": "Recherche de partenaires financiers ou co-investisseurs (banques de développement, fonds d’investissement, institutions multilatérales, acteurs privés internationaux)"
+                }
+            },
+            "4": {
+                "title": "Valoriser et piloter au niveau mondial",
+                "items": {
+                    "1": "Communication institutionnelle et diplomatique autour du projet. ",
+                    "2": "Narration stratégique à destination des parties prenantes, bailleurs et communautés locales.",
+                    "3": "Suivi, animation et actualisation régulière des orientations et résultats business."
+                }
+            }
+        },
+        "first_world_audit": "Premier Audit Mondial",
+        "first_world_audit_description": {
+            "1": "Vous avez un projet en tête ou une ambition internationale à structurer ?",
+            "2": "Nous vous proposons un diagnostic stratégique de votre situation internationale (vision, enjeux, leviers disponibles) – afin de définir des bases solides et actionnables pour vos projets."
+        },
+        "start": "Commencer"
+    },
+    "technical_partners": {
+        "technical_partners": "Partenaires Techniques",
+        "technical_partners_description": {
+            "1": "Vous êtes une agence publique ou une organisation internationale et vous recherchez un partenaire capable de prendre en charge les volets institutionnels, stratégiques et politiques de vos projets ?",
+            "2": "OUHDEL Conseil intervient en co-traitance ou sous-traitance, avec une maîtrise des attentes des bailleurs multilatéraux, une compréhension fine des dynamiques régionales et une expérience des exigences des maîtres d’ouvrage publics à l’échelle internationale.",
+            "3": "Nous intervenons à vos côtés pour sécuriser, crédibiliser et valoriser vos propositions dans les contextes les plus exigeants."
+        },
+        "items": {
+            "1": {
+                "title": "Contenu stratégique & institutionnel des offres",
+                "items": {
+                    "1": "Rédaction des volets institutionnels, de gouvernance et de contexte territorial.",
+                    "2": "Élaboration d’argumentaires adaptés aux décideurs publics, aux bailleurs et aux administrations.",
+                    "3": "Traduction de l’expertise technique en une vision stratégique claire et lisible pour les parties prenantes."
+                }
+            },
+            "2": {
+                "title": "Pilotage de la gouvernance & concertation",
+                "items": {
+                    "1": "Animation de dispositifs participatifs, de séminaires institutionnels et d’ateliers de co-construction.",
+                    "2": "Conseil sur les modèles de gouvernance et la coordination interinstitutionnelle.",
+                    "3": "Médiation dans des contextes sensibles ou à forts enjeux politiques et diplomatiques."
+                }
+            },
+            "3": {
+                "title": "Financements et labellisation",
+                "items": {
+                    "1": "Intégration des logiques de financements multilatéraux dans le calendrier projet (Banque mondiale, Banque africaine de développement, fonds climat, Global Gateway).",
+                    "2": "Stratégie de certification et de labellisation internationale (ESG, Ville durable, Smart City, Green Building, Sustainable Tourism).",
+                    "3": "Cadrage pour répondre à des appels à projets ou appels à manifestation d’intérêt internationaux."
+                }
+            }
+        },
+        "position": "Positionnez votre groupement  ",
+        "position_description": {
+            "1": "Vous préparez une réponse à un appel d’offres international ou un groupement sur un territoire stratégique ?",
+            "2": "OUHDEL Conseil analyse sans frais les volets institutionnels et stratégiques de votre projet afin d’identifier les points à renforcer et de vous proposer une intégration sur mesure dans votre réponse.",
+            "3": "Un échange technique, rapide et ciblé, entre professionnels."
+        },
+        "start": "Commencer"
+    },
+    "enterprise": {
+        "enterprise": "Entreprises Internationales",
+        "enterprise_description": {
+            "1": "Vous êtes une entreprise internationale ou européenne et vous souhaitez mieux comprendre les territoires, sécuriser votre développement, ou nouer des relations solides avec les acteurs publics et privés ?",
+            "2": "OUHDEL Conseil vous aide à vous implanter, à construire des partenariats institutionnels durables, et à intégrer les projets et financements locaux adaptés à votre secteur.",
+            "3": "Nous agissons comme interface stratégique entre votre activité et les dynamiques mondiales et institutionnelles  avec une approche concrète, discrète et sur mesure."
+        },
+        "sticky": {
+            "titles": {
+                "1": "S’ancrer.",
+                "2": "Dialoguer.",
+                "3": "Accélérer."
+            },
+            "description": {
+                "1": "OUHDEL Conseil accompagne les entreprises françaises et internationales dans leur implantation et leur stratégie institutionnelle.",
+                "2": "En se positionnant comme un partenaire de confiance entre acteurs privés, autorités publiques et organisations multilatérales, notre cabinet propose une approche Business sur mesure et opérationnelle."
+            }
+        },
+        "implantation": "Implantation et ancrage International",
+        "implantation_items": {
+            "1": "Analyse des zones d’implantation les plus stratégiques.",
+            "2": "Mise en relation avec gouvernements, agences de développement et institutions locales.",
+            "3": "Positionnement dans les programmes d’aménagement, corridors économiques ou appels internationaux.",
+            "4": "Préparation complète du dossier d’implantation (institutionnel, foncier, partenariats financiers et techniques)."
+        },
+        "dialog": "Dialogue Institutionnel et accompagnement ",
+        "dialog_items": {
+            "1": "Médiation avec les décideurs institutionnels et les autorités publiques.",
+            "2": "Accompagnement dans les négociations et partenariats public-privé internationaux.",
+            "3": "Appui à la compréhension des politiques nationales, des priorités publiques et des cadres réglementaires.",
+            "4": "Élaboration d’un récit stratégique crédible et différenciant pour le territoire ou le projet."
+        },
+        "financing": "Financement et stratégie de projets",
+        "financing_items": {
+            "1": "Intégration dans des projets publics, privés ou hybrides (infrastructures, mobilité, transition énergétique, numérique).",
+            "2": "Veille active sur les dispositifs de financement internationaux (Banque mondiale, Global Gateway, fonds climat, BAD, AIIB, etc.).",
+            "3": "Appui au montage de réponses à appels à projets et appels à manifestation d’intérêt multilatéraux.",
+            "4": "Coordination avec les partenaires techniques et institutionnels (bureaux d’études, juristes, experts sectoriels)."
+        },
+        "expertise": "Expertise de la pénétration des marchés Internationaux",
+        "expertise_items": {
+            "1": "Étude de positionnement stratégique et institutionnel à l’échelle internationale.",
+            "2": "Mise en relation avec les territoires d’accueil pertinents, les décideurs publics et les opérateurs locaux.",
+            "3": "Appui à la régulation, à la conformité et à la reconnaissance institutionnelle.",
+            "4": "Représentation et accompagnement diplomatique auprès des agences multilatérales et des ministères."
+        },
+        "meeting": "Entretien Confidentiel Gratuit",
+        "meeting_description": {
+            "1": "Vous souhaitez tester l’opportunité d’un territoire, explorer vos leviers institutionnels ou construire une stratégie d’influence mondiale ?",
+            "2": "Nous vous proposons un premier entretien confidentiel gratuit, pour cartographier vos besoins, évaluer vos opportunités et identifier les premiers leviers activables."
+        },
+        "start": "Commencer"
+    },
+    "our_project": {
+        "our_project": "Notre projet - Côte d'Ivoire",
+        "our_project_description": {
+            "1": "OUHDEL Conseil propose d’agir comme catalyseur d’un projet d’importance stratégique pour la France et l’Afrique de l’Ouest : le déploiement de la première centrale à hydrogène vert en Côte d’Ivoire pour structurer le quatrième hub hydrogène du continent africain.",
+            "2": "Dans un contexte mondial de transition énergétique accélérée, marqué par la nécessité de sécuriser les approvisionnements en énergie propre et de diversifier les sources stratégiques au-delà des canaux traditionnels, ce projet répond simultanément aux priorités européennes (Green Deal, REPowerEU, autonomie énergétique) et africaines (industrialisation verte, transition énergétique).",
+            "3": " La Côte d’Ivoire, grâce à son mix énergétique renouvelable, sa stabilité politique, ses infrastructures portuaires modernes et sa proximité avec l’Europe, constitue une base idéale pour développer une production compétitive d’hydrogène vert destinée à l’exportation.",
+            "4": "",
+            "link": "Consultez notre projet ici"
+        },
+        "structuring": "Structuration énergétique stratégique & gouvernance",
+        "structuring_items": {
+            "1": "Cadrage complet du projet glocal (public ou hybride) en matière d'hydrogène vert et d'ammoniac pour engrais azotés.",
+            "2": "Co-construction du projet avec les partenaires locaux et français.",
+            "3": "Conseil sur la gouvernance du projet, sa diplomatie territoriale et sa valorisation institutionnelle."
+        },
+        "financing": "Mobilisation des financements & relations bailleurs",
+        "financing_items": {
+            "1": "Identification des lignes de financement adaptées (AFD, UE, Proparco, ENI, DAECT, Interreg).",
+            "2": "Rédaction et montage des dossiers (fiche projet, logframe, budget, notes stratégiques).",
+            "3": "Coordination avec les représentations diplomatiques, services de coopération, ministères."
+        },
+        "operations": "Mise en œuvre opérationnelle & suivi",
+        "operations_items": {
+            "1": "Animation des coalitions et coordination des partenaires dans le but de démarrer le projet industriel (Sud/Nord).",
+            "2": "Suivi des indicateurs, production de rapports, évaluation stratégique.",
+            "3": "Communication et valorisation du projet pour assurer visibilité, pérennité et réplicabilité."
+        },
+        "enterprise": "Appui aux entreprises dans les projets internationaux",
+        "enterprise_items": {
+            "1": "Intégration des acteurs économiques dans le projet économique (PPP, entreprises à impact).",
+            "2": "Soutien à l’export ou à l’implantation stratégique (bois, énergie, infrastructures, services publics) pour améliorer le marché énergétique. ",
+            "3": "Mise en lien avec les institutions publiques et les territoires d’accueil."
+        },
+        "start_smart": "Démarrons intelligemment",
+        "start_smart_description": {
+            "1": "Vous réfléchissez à rejoindre notre projet hydrogène ou à obtenir des informations ?",
+            "2": "Nous vous proposons de répondre à vos échanges par mail et à convenir d'un entretien."
+        },
+        "start": "Commencer"
+    },
+    "contact": {
+        "contact": "Nous contacter",
+        "contact_description": {
+            "1": "Envie de structurer un projet, d’explorer un partenariat ou simplement d’échanger ? Chez OUHDEL Conseil, chaque collaboration commence par une conversation claire, honnête et sans engagement. Nous serons ravis d’en savoir plus sur vos enjeux - qu’ils soient locaux, institutionnels ou internationaux.",
+            "2": "Écrivez-nous, appelez-nous, rencontrons-nous."
+        },
+        "opening_hours": "Horaires d'ouverture",
+        "opening_hours_items": {
+            "1": {
+                "period": "Lun.- ven.",
+                "time": "8 h - 20 h"
+            },
+            "2": {
+                "period": "Samedi",
+                "time": "9 h - 21 h"
+            },
+            "3": {
+                "period": "Dimanche",
+                "time": "Fermé"
+            }
+        }
+    }
+}

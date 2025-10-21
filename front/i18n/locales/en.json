@@ -1,0 +1,294 @@
+{
+    "nav": {
+        "welcome": "Welcome",
+        "about": "About",
+        "international": "Territorial Actors",
+        "enterprise": "Enterprises",
+        "technical-partners": "Technical Partners",
+        "our-project": "Our Project",
+        "contact": "Contact"
+    },
+    "home": {
+        "catchphrase": "Structuring high-impact public and private projects, from local to international.",
+        "start": "Get started",
+        "partners": "Trusted Partners",
+        "why_us": "Why us?",
+        "why_us_text": {
+            "1": "OUHDEL Conseil is not just another public affairs firm.",
+            "2": "We are the discreet strategists and committed catalysts of the most complex territorial and institutional projects.",
+            "3": "We believe that effective development begins with a clear vision, consistent anchoring, and solid trust between stakeholders.",
+            "4": "Communities, businesses, landlords: we support you in structuring ambitious and sustainable projects, in France and internationally, with a constant demand for rigor, clarity and high-end quality.",
+            "5": "At OUHDEL Conseil, we don't sell deliverables: we build, alongside you, strategies that last over time."
+        },
+        "work_together": "Let's work together!",
+        "work_together_text": "Whether you are a community, a business or a technical partner, we provide you with clear services, strategic support and real capacity for action.",
+        "work_together_click_below": "Click below to discover what we can build together.",
+        "showcase_international": {
+            "title": "Territorial Actors",
+            "question": "Are you a municipality, an inter-municipal authority, a resort, or agglomeration looking for a strategic, operational, and transparent offering?",
+            "answer": "OUHDEL Conseil will support you from idea to action."
+        },
+        "showcase_enterprise": {
+            "title": "Companies",
+            "question": "Are you a business looking to establish a presence, develop your local presence, or collaborate with public stakeholders?",
+            "answer": "We build your local strategy with method, clarity, and efficiency."
+        },
+        "showcase_partners": {
+            "title": "Technical Partners",
+            "question": "Design offices, AMO, territorial agencies, SPL, SEM: your offers are technical, solid, innovative…",
+            "answer": "But public markets today require much more than expertise."
+        }
+    },
+    "about": {
+        "our_manifest": "Our Manifesto",
+        "manifest_description": {
+            "1": "{0} is not a consulting firm. We are impact strategists, translators of ambition, and trusted partners.",
+            "1_param": "OUHDEL Conseil",
+            "2": "We are convinced that the public and private projects of tomorrow will be neither purely technical nor solely political.",
+            "3": "They will be hybrid, partnership-based, strategic, and grounded. OUHDEL Conseil was created to support these projects: those that require bringing together worlds, working with territories, negotiating with institutions, and building sustainable solutions with method and finesse.",
+            "4": "We don't believe in ready-made recipes or grand declarations.",
+            "5": "We believe in serious work, territorial clarity, the patient construction of alliances, and the ability to take concrete action."
+        },
+        "download_our_brochure": "Download our brochure",
+        "who_are_we": "Who are we ?",
+        "who_are_we_description": {
+            "1": "OUHDEL Conseil is a new-generation independent firm, founded by two young experts with excellent training, united by a common conviction: high-impact projects need a strategic compass, not just an executor.",
+            "2": "Originally purely focused on private consulting, OUHDEL is today a \"glocal\" firm, at the crossroads of public engineering, territorial development, economic diplomacy and institutional strategy.",
+            "3": "We support communities, businesses and public or international institutions in structuring, securing and promoting complex projects, with rigor, political finesse and commitment to results.",
+            "4": "Neither technical operators nor simple consultants: we are catalysts, translators of ambitions, and above all, your trusted partner."
+        },
+        "our_values": "Our Values",
+        "our_values_description": {
+            "description": "At OUHDEL Conseil, we believe that each region deserves a tailor-made strategy that meets its ambitions and constraints. Our commitment is based on five pillars which guide each of our missions:",
+            "values": {
+                "1": {
+                    "title": "Clarity:",
+                    "description": "We provide a simple framework for complex projects. Our method is clear, our approach is structured, and our deliverables are useful."
+                },
+                "2": {
+                    "title": "Commitment:",
+                    "description": "We work as partners, not as service providers. We handle our clients' projects as if they were our own, with loyalty and high standards."
+                },
+                "3": {
+                    "title": "Trust:",
+                    "description": "This is our driving force. In our relationships with our customers, technical partners, and public stakeholders, everything begins with reliability and attentiveness."
+                },
+                "4": {
+                    "title": "Login:",
+                    "description": "We foster dialogue across scales, sectors, and cultures. From rural to global, from public to private, we build coalitions of stakeholders to achieve impact."
+                },
+                "5": {
+                    "title": "Strategic rigor:",
+                    "description": "We don't do things halfway. Every project deserves a vision, solid architecture, and overall consistency. This is what makes our brand."
+                }
+            }
+        },
+        "want_to_know_more": "Want to know more?",
+        "contact_us": "Contact us and receive a response as soon as possible."
+    },
+    "international": {
+        "our_mission": "Our Mission",
+        "our_mission_description": {
+            "1": "Are you a municipality, an inter-municipality, a resort or an urban area looking for clear, comprehensive and responsive strategic support?",
+            "2": "OUHDEL Conseil supports you in the design, structuring and promotion of your regional projects, in conjunction with the right partners, the right tools and the right financing."
+        },
+        "missions": {
+            "1": {
+                "title": "Define a proper Strategy",
+                "items": {
+                    "1": "Free local economic development audit",
+                    "2": "Definition of high-stakes projects (public infrastructure, land, businesses, tourism, agriculture, etc.)",
+                    "3": "Prioritization of short and medium term actions",
+                    "4": "Support for the drafting of political roadmaps",
+                    "5": ""
+                }
+            },
+            "2": {
+                "title": "Structure the project",
+                "items": {
+                    "1": "Preparation of the planned progress (technical, legal, institutional)",
+                    "2": "Mobilization and coordination of partner design offices or AMOs",
+                    "3": "Identification of public and private stakeholders"
+                }
+            },
+            "3": {
+                "title": "Financing and Labelisation",
+                "items": {
+                    "1": "Complete preparation of financing files (DETR, DSIL, Green Fund, AAP, etc.)",
+                    "2": "Adapted labeling strategy (Responsible Traders, Public Service +, Green Station, etc.)",
+                    "3": "Search for financial partners or co-investors (local banks, lessors, etc.)"
+                }
+            },
+            "4": {
+                "title": "Promote and manage",
+                "items": {
+                    "1": "Political and institutional communication around the project",
+                    "2": "Storytelling for residents and partners",
+                    "3": "Monitoring, animation and annual updating of the project"
+                }
+            }
+        },
+        "first_world_audit": "First Free Audit",
+        "first_world_audit_description": {
+            "1": "Do you have a project in mind or an ambition you want to structure?",
+            "2": "We offer a free audit of your regional situation (vision, challenges, available levers) - to get you off to a solid start."
+        },
+        "start": "Get started"
+    },
+    "technical_partners": {
+        "technical_partners": "Technical Partners",
+        "technical_partners_description": {
+            "1": "Are you a design office, project management assistance (AMO), public agency, SEM or SPL, and are you looking for a partner capable of covering the institutional, strategic or political aspects of your projects?",
+            "2": "OUHDEL Conseil works as a co-contractor or subcontractor, with a detailed understanding of the expectations of public markets, territorial dynamics, and the requirements of public project owners.",
+            "3": "We are not generalist “accompaniers”: we are professionals in institutions, public funding, political storytelling and local governance. We work alongside you to secure, enhance and enrich your offerings."
+        },
+        "items": {
+            "1": {
+                "title": "Strategic & institutional content of offers",
+                "items": {
+                    "1": "Drafting of political, governance and territorial context sections",
+                    "2": "Arguments adapted to elected officials and the administration",
+                    "3": "Translation of technical expertise into a readable territorial vision"
+                }
+            },
+            "2": {
+                "title": "Steering governance & consultation",
+                "items": {
+                    "1": "Animation of participatory systems, elected officials-agents seminars, co-construction workshops",
+                    "2": "Advice on governance arrangements, inter-municipal coordination",
+                    "3": "Mediation in sensitive contexts or with high political stakes"
+                }
+            },
+            "3": {
+                "title": "Funding and labeling",
+                "items": {
+                    "1": "Integration of grant logic into the project schedule (DSIL, DETR, Green Fund, etc.)",
+                    "2": "Labeling strategy (Responsible traders, Public service +, Green Station, Sustainable City, Eco-district, etc.)",
+                    "3": "Framework for responding to calls for projects or related AMIs"
+                }
+            }
+        },
+        "position": "Position your group to win",
+        "position_description": {
+            "1": "Are you preparing a response to a call for tender or a group in a strategic area?",
+            "2": "We analyze the institutional and strategic aspects of your project free of charge to identify the areas that need strengthening and offer you a tailor-made integration into your response.",
+            "3": "A quick, technical exchange between professionals."
+        },
+        "start": "Get started"
+    },
+    "enterprise": {
+        "enterprise": "Entreprises Internationales",
+        "enterprise_description": {
+            "1": "Are you a French or international company, and you want to better understand the territories, secure your development, or build solid relationships with public stakeholders ?",
+            "2": "OUHDEL Conseil helps you establish yourself, build lasting institutional partnerships, and integrate local projects and financing adapted to your sector.",
+            "3": "We act as a strategic interface between your business and French territorial and institutional dynamics, with a concrete, discreet and tailor-made approach."
+        },
+        "sticky": {
+            "titles": {
+                "1": "Establish.",
+                "2": "Dialog.",
+                "3": "Accelerate."
+            },
+            "description": {
+                "1": "OUHDEL Conseil supports French and foreign companies in their territorial establishment and their institutional strategy, acting as a trusted partner between private actors and public spheres.",
+                "2": ""
+            }
+        },
+        "implantation": "Establishment and territorial anchoring",
+        "implantation_items": {
+            "1": "Analysis of the most relevant locations",
+            "2": "Networking with communities, inter-municipalities, SEMs and development agencies",
+            "3": "Positioning in development zones or calls for local projects",
+            "4": "Preparation of the implementation file (institutional, land, partners)"
+        },
+        "dialog": "Institutional dialogue and public support",
+        "dialog_items": {
+            "1": "Mediation with elected officials and public decision-makers",
+            "2": "Support in public-private negotiations and partnerships",
+            "3": "Help in understanding local policies, public expectations, regulatory constraints",
+            "4": "Construction of a credible and differentiating territorial storytelling"
+        },
+        "financing": "Project financing and strategy",
+        "financing_items": {
+            "1": "Integration into public or hybrid projects (equipment, mobility, energy transition, digital, etc.)",
+            "2": "Monitoring of financing mechanisms (France 2030, region, ADEME, Green Fund, ANCT, etc.)",
+            "3": "Support for the preparation of responses to territorial calls for proposals and calls for proposals",
+            "4": "Coordination with technical stakeholders (design office, lawyers, sector experts)"
+        },
+        "expertise": "Entry into the French market (foreign companies)",
+        "expertise_items": {
+            "1": "Strategic and institutional positioning study",
+            "2": "Connecting with the right host areas, public stakeholders and local operators",
+            "3": "Support for regulation, compliance, and institutional legitimation",
+            "4": "Representation and diplomatic support to agencies and ministries"
+        },
+        "meeting": "Free Confidential Interview",
+        "meeting_description": {
+            "1": "Do you want to test the opportunity of a territory, explore your institutional levers or build a local influence strategy?",
+            "2": "We offer you a free initial confidential interview to map your needs, assess your opportunities and identify the first levers that can be activated."
+        },
+        "start": "Get started"
+    },
+    "our_project": {
+        "our_project": "Internationally",
+        "our_project_description": {
+            "1": "Are you an Investment Structure, an NGO, a public institution or a project leader based in Eastern Europe, Central Asia, the Mediterranean or the Maghreb?",
+            "2": "OUHDEL Conseil acts as an independent global-local operator, capable of managing or structuring territorial projects with an institutional and economic dimension, in conjunction with French communities, local stakeholders, donors and businesses.",
+            "3": "We intervene from strategic framing to local deployment, with a detailed understanding of the issues of governance, financing, regulation and multi-stakeholder coordination.",
+            "4": "Our expertise is rooted in French institutions, but is deployed to serve ambitious and operational international coalitions.",
+            "link": ""
+        },
+        "structuring": "Strategic structuring & governance",
+        "structuring_items": {
+            "1": "Complete framework for a glocal project (public or hybrid)",
+            "2": "Co-construction with local and French partners",
+            "3": "Advice on governance, territorial diplomacy, institutional development"
+        },
+        "financing": "Mobilization of funding & donor relations",
+        "financing_items": {
+            "1": "Identification of suitable financing lines (AFD, EU, Proparco, ENI, DAECT, Interreg, etc.)",
+            "2": "Drafting and assembly of files (project sheet, logframe, budget, strategic notes)",
+            "3": "Coordination with diplomatic representations, cooperation services, ministries"
+        },
+        "operations": "Operational implementation & monitoring",
+        "operations_items": {
+            "1": "Animation of coalitions and coordination of partners (South/North)",
+            "2": "Indicator monitoring, reporting, strategic evaluation",
+            "3": "Communication and promotion of the project to ensure visibility, sustainability and replicability"
+        },
+        "enterprise": "Support for businesses in international projects",
+        "enterprise_items": {
+            "1": "Integration of economic actors in territorial projects (PPP, impact businesses, etc.)",
+            "2": "Support for export or strategic establishment (wood, energy, infrastructure, public services)",
+            "3": "Linking with public institutions and host territories"
+        },
+        "start_smart": "Let's start smart",
+        "start_smart_description": {
+            "1": "Are you thinking about structuring a glocal project or responding to an international call for projects?",
+            "2": "We offer you a free framing session: 1 hour of strategic discussion to analyze your challenges, your partners, and your financing or cooperation avenues."
+        },
+        "start": "Get started"
+    },
+    "contact": {
+        "contact": "Contact us",
+        "contact_description": {
+            "1": "Looking to structure a project, explore a partnership, or simply chat? At OUHDEL Conseil, every collaboration begins with a clear, honest, and no-obligation conversation. We'd love to learn more about your challenges—whether local, institutional, or international.",
+            "2": "Write us, call us, and let's meet."
+        },
+        "opening_hours": "Hours of operation",
+        "opening_hours_items": {
+            "1": {
+                "period": "Mon.- Fri.",
+                "time": "8 a.m. - 8 p.m."
+            },
+            "2": {
+                "period": "Saturday",
+                "time": "9 a.m. - 9 p.m."
+            },
+            "3": {
+                "period": "Sunday",
+                "time": "Closed"
+            }
+        }
+    }
+}
