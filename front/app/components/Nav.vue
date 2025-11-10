@@ -16,7 +16,7 @@ const props = defineProps({
 
 const { locale } = useI18n();
 const selectedRouteClass = "bg-primary text-white";
-const defaultNavClass = "";
+const defaultNavClass = "text-center h-full";
 const defaultNavElemClass = "p-5";
 
 // Get the locale prefix for links

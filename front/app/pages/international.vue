@@ -139,7 +139,7 @@
                 <p class="w-2/3 text-primary text-lg mb-10 text-pretty sm:text-center">
                     {{ $t("international.first_world_audit_description.2") }}
                 </p>
-                <Button :text="$t('international.start')" :onClick="startAudit"></Button>
+                <Button :text="$t('international.start')" :onClick="goToContactPage"></Button>
             </div>
         </div>
     </div>
@@ -150,7 +150,7 @@ const { setPageTitle } = useTitle();
 
 setPageTitle($t("nav.international"));
 
-function startAudit() {
-    alert('WIP')
+function goToContactPage() {
+    goToPage("contact");
 }
 </script>

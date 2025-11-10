@@ -24,17 +24,12 @@
                         61 rue de Lyon, 75012 Paris, France
                     </a>
                 </p>
-                <p class="mb-2 lg:px-5 lg:border-r-2 lg:border-r-primary">
+                <p class="mb-2 lg:px-5">
                     <a
                         href="mailto:sas.ouhdel@gmail.com"
                         class="underline text-primary"
                     >
                         sas.ouhdel@gmail.com</a
-                    >
-                </p>
-                <p class="mb-2 lg:pl-5">
-                    <a href="tel:+33778465007" class="underline text-primary">
-                        07 78 46 50 07</a
                     >
                 </p>
             </div>

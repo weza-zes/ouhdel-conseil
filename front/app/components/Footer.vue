@@ -1,8 +1,9 @@
 <template>
     <div class="bg-primary flex justify-center items-center min-w-full py-3">
         <div
-            class="container-sm flex flex-col m-5 sm:flex-row justify-center items-center sm:items-start gap-3"
+            class="container-sm flex flex-col m-5 sm:flex-row justify-between items-center sm:items-start gap-3"
         >
+            <img src="/img/logo.png" alt="Logo" class="h-20 mr-40 mx-auto" />
             <div class="flex flex-col w-1/2 text-white gap-3">
                 <a href="contact" target="_blank">Nous contacter</a>
                 <a href="/pdf/rgpd.pdf" target="_blank">Politique RGPD</a>

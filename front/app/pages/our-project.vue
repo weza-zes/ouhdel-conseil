@@ -134,7 +134,7 @@
                 </p>
                 <Button
                     :text="$t('our_project.start')"
-                    :onClick="startAudit"
+                    :onClick="goToContactPage"
                 ></Button>
             </div>
         </div>
@@ -145,4 +145,9 @@
 const { setPageTitle } = useTitle();
 
 setPageTitle($t("nav.our-project"));
+
+
+function goToContactPage() {
+    goToPage("contact");
+}
 </script>
