@@ -1,6 +1,7 @@
 <template>
     <a
-        href="/img/about/plaquette.pdf"
+        href="/pdf/manifesto.pdf"
+        target="_blank"
         class="flex flex-col items-center"
     >
         <img
@@ -17,7 +18,7 @@
 </template>
 
 <script setup>
-import { useI18n } from 'vue-i18n';
+import { useI18n } from "vue-i18n";
 
 const { t } = useI18n();
 </script>

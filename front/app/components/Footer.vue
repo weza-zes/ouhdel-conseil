@@ -4,10 +4,14 @@
             class="container-sm flex flex-col m-5 sm:flex-row justify-center items-center sm:items-start gap-3"
         >
             <div class="flex flex-col w-1/2 text-white gap-3">
-                <a href="contact">Nous contacter</a>
-                <a>Politique RGPD</a>
-                <a>Conditions Générales d'Utilisation</a>
-                <a>Charte de Transparence et Éthique</a>
+                <a href="contact" target="_blank">Nous contacter</a>
+                <a href="/pdf/rgpd.pdf" target="_blank">Politique RGPD</a>
+                <a href="/pdf/cgu.pdf" target="_blank"
+                    >Conditions Générales d'Utilisation</a
+                >
+                <a href="/pdf/charte.pdf" target="_blank"
+                    >Charte de Transparence et Éthique</a
+                >
             </div>
             <div
                 class="w-1/2 text-xs text-gray-300 flex flex-col justify-between h-full gap-8"
